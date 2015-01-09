@@ -1,0 +1,16 @@
+{
+  "name": "Stack Overflow API Search",
+  "description": "Add support to the omnibox to search Stack Overflow",
+  "omnibox": {
+    "keyword": "stoflo"
+  },
+  "icons": {
+    "16": "icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "version": "1.0",
+  "minimum_chrome_version": "9",
+  "manifest_version": 2
+}
