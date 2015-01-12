@@ -2,6 +2,8 @@
 
 Easily search Stack Overflow from Google Chrome.
 
+Available at the [Chrome Store](https://chrome.google.com/webstore/detail/mbdialmebcekhnihbplpaknfdhiiaeok/publish-accepted).
+
 ### Usage
 
  1. Type `stoflo` into the omnibar then hit `tab` or `space` to
