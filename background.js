@@ -1,6 +1,6 @@
 function resetDefaultSuggestion() {
   chrome.omnibox.setDefaultSuggestion({
-    description: 'stoflo: Search Stack Overflow for %s'
+    description: 'Search Stack Overflow for %s'
   });
 }
 

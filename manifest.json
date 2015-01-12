@@ -1,8 +1,8 @@
 {
   "name": "Stack Overflow Search",
-  "description": "Search Stack Overflow in omnibox with \"stoflo\"",
+  "description": "Search Stack Overflow in omnibox with \"so\"",
   "omnibox": {
-    "keyword": "stoflo"
+    "keyword": "so"
   },
   "icons": {
     "16": "icon16.png",
@@ -12,7 +12,7 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "version": "0.1",
+  "version": "0.1.1",
   "minimum_chrome_version": "9",
   "manifest_version": 2
 }
